@@ -1,6 +1,9 @@
 # Spotify_Music_Controller
 
 Code for controlling your spotify music remotely.
+You need to add your CLIENT_ID and CLIENT_SECRET in the credentials.py under spotify folder. These you get from spotify's developer website after creating a account and an app.
+
+To let users within your network join add the system's IP address in 'ALLOWED_HOST' list in settings.py under music_controller folder.
 
 ## Setup Instructions
 
