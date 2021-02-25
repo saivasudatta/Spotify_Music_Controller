@@ -1,5 +1,7 @@
 # Spotify_Music_Controller
 
+Project on Django (backend) and React (frontend).
+
 Code for controlling your spotify music remotely.
 You need to add your CLIENT_ID and CLIENT_SECRET in the credentials.py under spotify folder. These you get from spotify's developer website after creating a account and an app.
 
