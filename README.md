@@ -5,8 +5,10 @@ Code for controlling your spotify music remotely.
 ## Setup Instructions
 
 Python packages required:
-  pip install django
-  pip install djangorestframework
+ ```bash
+ pip install django
+ pip install djangorestframework
+```
 
 ### Start Web Server
 
